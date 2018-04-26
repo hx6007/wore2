@@ -1,0 +1,7 @@
+RE2ArgTest.Int16Test
+RE2ArgTest.Uint16Test
+RE2ArgTest.Int32Test
+RE2ArgTest.Uint32Test
+RE2ArgTest.Int64Test
+RE2ArgTest.Uint64Test
+PASS

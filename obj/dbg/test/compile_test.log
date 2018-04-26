@@ -1,0 +1,8 @@
+TestRegexpCompileToProg.Simple
+TestCompile.Latin1Ranges
+TestCompile.OtherByteMapTests
+TestCompile.UTF8Ranges
+TestCompile.InsufficientMemory
+TestCompile.Bug26705922
+TestCompile.Bug35237384
+PASS

@@ -1,0 +1,14 @@
+re2/set.cc:49: Error parsing '(': missing ): (
+re2/set.cc:49: Error parsing '(': missing ): (
+re2/set.cc:49: Error parsing '(': missing ): (
+re2/set.cc:128: DFA out of memory: size 10003, bytemap range 2, list count 10002
+Set.Unanchored
+Set.UnanchoredFactored
+Set.UnanchoredDollar
+Set.UnanchoredWordBoundary
+Set.Anchored
+Set.EmptyUnanchored
+Set.EmptyAnchored
+Set.Prefix
+Set.OutOfMemory
+PASS
